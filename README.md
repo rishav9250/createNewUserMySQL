@@ -1,2 +1,1 @@
-# createNewUserMySQL
-create a new user in MySQL?
+CREATE USER [IF NOT EXISTS] account_name IDENTIFIED BY 'password';   
